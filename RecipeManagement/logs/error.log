@@ -1,0 +1,36 @@
+2022-07-06 15:11:21,062 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field recipeService in com.recipe.controller.RecipesController required a bean of type 'com.recipes.service.IRecipesService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.recipes.service.IRecipesService' in your configuration.
+
+2022-07-06 19:09:06,305 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field recipeService in com.recipe.controller.RecipesController required a bean of type 'com.recipes.service.IRecipesService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.recipes.service.IRecipesService' in your configuration.
+
